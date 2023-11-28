@@ -1,1 +1,1 @@
-## 0x08. React Redux reducer+selector
+Learning about redux reducer selector
